@@ -1,7 +1,6 @@
 body{
     background-color:   #595547;
     color: #9DBFF0;
-    /* font-family: 'Poppins', sans-serif; */
     font-family: 'Work Sans', sans-serif;
     margin-left:25px;
     margin-bottom: 25px;
@@ -27,8 +26,9 @@ a:hover {
     color: aliceblue;
   }
   
-  p{
+  .imagess p{
     color: aliceblue;
+    display: inline-block;
   }
 
 
